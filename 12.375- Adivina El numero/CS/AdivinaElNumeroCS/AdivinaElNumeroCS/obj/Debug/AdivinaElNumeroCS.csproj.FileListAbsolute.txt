@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\bin\Debug\AdivinaElNumeroCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\bin\Debug\AdivinaElNumeroCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\bin\Debug\AdivinaElNumeroCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\obj\Debug\AdivinaElNumeroCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\obj\Debug\AdivinaElNumeroCS.frmAdivinaElNumeroCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\obj\Debug\AdivinaElNumeroCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\obj\Debug\AdivinaElNumeroCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\obj\Debug\AdivinaElNumeroCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\CS\AdivinaElNumeroCS\AdivinaElNumeroCS\obj\Debug\AdivinaElNumeroCS.pdb

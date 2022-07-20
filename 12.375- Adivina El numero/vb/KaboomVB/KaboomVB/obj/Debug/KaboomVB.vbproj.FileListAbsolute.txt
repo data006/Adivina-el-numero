@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\bin\Debug\KaboomVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\bin\Debug\KaboomVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\bin\Debug\KaboomVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\bin\Debug\KaboomVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\obj\Debug\KaboomVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\obj\Debug\KaboomVB.frmKaboomVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\obj\Debug\KaboomVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\obj\Debug\KaboomVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\obj\Debug\KaboomVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\obj\Debug\KaboomVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\14\vb\KaboomVB\KaboomVB\obj\Debug\KaboomVB.pdb
